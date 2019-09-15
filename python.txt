@@ -1,2 +1,3 @@
 create database note;
 create table note(id int,funct varchar(40));
+//张龙修改了一把
