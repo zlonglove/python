@@ -1,0 +1,2 @@
+create database note;
+create table note(id int,funct varchar(40));
